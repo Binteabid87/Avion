@@ -1,0 +1,14 @@
+lay out.tcs ka work kya hota hy ?
+* ye file hamaray project ke lye bhut imp hoti hy ye file  hamaray project ky structure ki layout hoti hy means ye file hamaray project ki bunyad hoti hy .
+Signout :- 
+Signin:-
+sabh se phle next.js dowload karoghe 
+than isi laptop par apna group khologhe  
+Most imp topic
+Database :-  (db)
+hota kya hy ?
+sql
+kon kon se data base famous hain?
+sql = structured query language ka kaam hy data base ke sath iteraction kara
+inki integration kase ki jati hy?
+ye kaam kase karta hy ?
